@@ -4,9 +4,11 @@ Download All Packages Termux Dengan Mudah Menggunakan Script Ini
 
 ## Instalations
 ```
+$ termux-setup-storage
 $ pkg update && pkg upgrade
-$ pkg install git
-$ git clone https://github.com/HamzSenpaii/Packages-Termux
-$ cd Packages-Termux
+$ pkg install figlet -y
+$ pkg install git -y
+$ git clone https://github.com/HamzSenpaii/All-Packagess
+$ cd All-Packagess
 $ sh start.sh
 ```
